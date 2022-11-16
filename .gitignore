@@ -1,0 +1,6 @@
+*.swp
+main
+test.c
+a.out
+__which
+test*
